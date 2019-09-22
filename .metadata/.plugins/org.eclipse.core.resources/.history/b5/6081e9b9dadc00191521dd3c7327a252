@@ -1,0 +1,19 @@
+package pratti_p2;
+
+public class BodyMassIndex {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//scan user weight
+		//scan user height 
+		
+		// select which formula the user wants to use
+		
+		//display BMI categories 
+		
+		
+
+	}
+
+}

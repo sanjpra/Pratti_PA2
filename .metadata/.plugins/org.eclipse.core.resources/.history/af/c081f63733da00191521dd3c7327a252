@@ -1,0 +1,40 @@
+package pratti_p1;
+
+public class encrypt {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Scanner scnr = new Scanner(System.in);
+		// convert int to string 
+		
+		 int array1[] = new int[4]; 
+		 
+		 for(int i = 0; i < 4; i++) { 
+			 array[i] = scnr.nextInt();
+			 
+		 }
+				
+		//scan for userInput
+		
+		
+		// for loop (n = 0; n < 4; n++) 
+		
+			//int temp = add 7 
+			//temp = temp % 10 
+		
+		// swapping 
+		// temp1 = array[0] 
+		// array[0] = array[2] 
+		// array[2] = temp1
+		
+		//temp2 = array [1] 
+		//array[1] = array[3]
+		//array[3] = temp2
+		
+		// int[] to int  
+		
+		
+	}
+
+}

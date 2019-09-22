@@ -1,0 +1,15 @@
+package pratti_p2;
+
+public class BodyMassIndex {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//scan user weight
+		//scan user height 
+		
+		
+
+	}
+
+}
